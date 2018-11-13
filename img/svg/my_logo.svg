@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 327.3 306.3" style="enable-background:new 0 0 327.3 306.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;opacity:0.24;}
+	.st2{font-family:'ProximaNova-Regular';}
+	.st3{font-size:228.8643px;}
+	.st4{display:inline;fill:#252525;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:7;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st8{fill:#252525;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="Слой_3" class="st0">
+	<text transform="matrix(1 0 0 1 11.1035 229.4128)" class="st1 st2 st3">&lt;/&gt;</text>
+</g>
+<g id="Слой_4" class="st0">
+	<circle class="st4" cx="163.7" cy="153.2" r="145.5"/>
+</g>
+<g id="Слой_2">
+	<polyline class="st5" points="200.3,112.5 287.7,156.9 200.3,201.8 	"/>
+	<polyline class="st5" points="127,112.5 39.6,156.9 127,201.8 	"/>
+	<path class="st6" d="M139.9,210.4"/>
+	<polygon class="st7" points="179.6,76.9 197.7,82.9 154.1,215.1 135.6,240.6 136,209.1 	"/>
+	<path class="st7" d="M179.6,76.9l1.6-4.8c1.5-4.5,5.6-7.2,9.2-6l5,1.7c3.6,1.2,5.3,5.8,3.8,10.3l-1.6,4.8"/>
+	<path class="st7" d="M154.1,215.1"/>
+	<polygon class="st8" points="144.2,228.8 135.8,226 135.6,240.6 	"/>
+	<line class="st7" x1="154.1" y1="215.1" x2="136" y2="209.1"/>
+</g>
+</svg>
