@@ -477,6 +477,8 @@ width: 95%;
     -ms-flex-direction: column;
     -o-flex-direction: column;
     flex-direction: column;
+
+    width: 100%;
 }
 .menu__link
 {
