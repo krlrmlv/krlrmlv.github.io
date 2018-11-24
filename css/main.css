@@ -720,6 +720,7 @@ line-height: 20px;
     -o-transition: 0.3s;
     transition: 0.3s;
     width: 200px;
+    padding: 2%;
     cursor: pointer;
     display: -webkit-flex;
     display: -moz-flex;
