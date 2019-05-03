@@ -16,6 +16,12 @@ else
 
 
 $(document).ready(function() {
+
+	
+	AOS.init({
+		once: true
+	});
+	
 	$(".navigation__menu").on('click',function() {
 		$(".menu__wrapper").css("transform","translateX(0%)");
 	});
