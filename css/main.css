@@ -366,6 +366,11 @@ cursor: pointer;
 {
     margin-right: 0;
     margin-left: auto;
+    transition: 0.3s;
+}
+
+.menu__close:hover{
+    transform: scale(0.95);
 }
 
 .navigation__menu:hover .menu__lane:nth-child(1)
